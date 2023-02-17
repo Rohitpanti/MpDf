@@ -45,6 +45,6 @@ Install dependencies
 Start the server
 
 ```bash
-  npm run start
+  nodemon server.js
 ```
 
